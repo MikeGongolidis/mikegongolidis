@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Mike Gongolidis 👋</h1>
 
-<h3 align="center"> I asked codex to generate a README.md for myself based on what it knows, this is the result. I will update it on my own later! </h3>
+<p align="center" style="font-size: 0.8em; color: #666; margin-top: -0.3em;">
+  I asked codex to generate a README.md for myself based on what it knows; this is the result. I will update it on my own later.
+</p>
 <p align="center">
   <a href="https://mikegongolidis.com">Website</a> ·
   <a href="https://www.linkedin.com/in/mikegongolidis/">LinkedIn</a> ·
