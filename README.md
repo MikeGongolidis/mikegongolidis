@@ -9,26 +9,11 @@
 
 I'm a Lead Data Solutions Engineer in Copenhagen, building the machinery that helps promising AI ideas survive contact with production. I lead a small engineering team at Novo Nordisk, where we turn agentic AI and data-science prototypes into secure, observable, maintainable products for R&D.
 
-```text
-prototype ──► architecture ──► tests + CI/CD ──► production ──► useful science
-```
-
-### What I enjoy building
-
-- Agentic AI systems that can be measured, traced, and trusted
-- Python and TypeScript services, APIs, and the occasionally stubborn integration
-- Cloud and data platforms across AWS, Azure, and Databricks
-- Infrastructure as code, automated delivery, and systems that do not require heroics at 2 a.m.
-
 ### A few coordinates
 
 - 🧠 I have worked on NLP since before “LLM” became a household acronym, including publishing a [SciNLP 2021 paper](https://arxiv.org/abs/2111.00677) on domain adaptation of spherical embeddings.
 - ⚙️ I like finding the bottleneck: from speeding up data pipelines to moving report drafting from days to hours.
 - 🌱 Outside work, I maintain a small [digital garden](https://mikegongolidis.com) for thoughts on software, AI, macroeconomics, consciousness, and whatever else earns a tab in my browser.
 - ♟️ I love planning and efficiency—except while travelling, when a questionable detour is usually the correct choice.
-
-### Current toolkit
-
-`Python` `TypeScript` `FastAPI` `React` `LLMs` `MCP` `Langfuse` `AWS` `Azure` `Databricks` `Terraform` `Docker` `GitHub Actions`
 
 If you're working on thoughtful AI products, data systems, or a genuinely nerdy idea, I'd be happy to connect.
